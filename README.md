@@ -26,7 +26,7 @@ My skill set bridges the gap between hardware and software:
 | Category | Skills |
 | :--- | :--- |
 | **Programming (Professional)** | Python, C++ |
-| **Programming (Studies)** | JavaScript, MATLAB* |
+| **Programming (Studies)** | JavaScript, MATLAB |
 | **Engineering & Electronics** | Robotics Fundamentals, Electronics (Basic/Vital), Embedded Systems |
 | **Design** | Visual Communication Design |
 | **Languages** | English (Fluent / Self-taught), Portuguese (Native) |
