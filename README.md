@@ -1,4 +1,4 @@
-# Hello, I'm Felipe Reis (feloni12) 👋
+# Hello, I'm Felipe Reis 👋
 
 > "I have a natural and innate curiosity; knowledge is always welcome."
 
