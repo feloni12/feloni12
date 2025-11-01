@@ -1,7 +1,4 @@
-# Hello! 👋
-
-* 👂 My name is Felipe Reis
-* 👩 Pronouns: any
+# Hello! I'm Felipe Reis 👋
 
 I'm a Material Engineering graduate with a passion for technology and high curiosity, currently working at a Robotics Startup.
 
